@@ -2,7 +2,7 @@
 import React from 'react';
 import styled from 'styled-components';
 import {
-  BrowserRouter as Router,
+  HashRouter as Router,
   Route,
   Switch,
   Link,
@@ -19,14 +19,11 @@ const App = () => (
   <Router basename="/">
     <div className="App">
 
-      {/* <header className="App-header"> */}
       <AppHeader>
         <Link to="/">
           <h1>movies</h1>
         </Link>
       </AppHeader>
-
-      {/* </header> */}
 
       <Switch>
         <Route exact path="/" component={Movieslist} />
