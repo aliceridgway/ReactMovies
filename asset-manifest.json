@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/ReactMovies/static/css/main.b3fabd2b.chunk.css",
-    "main.js": "/ReactMovies/static/js/main.7b7023c7.chunk.js",
-    "main.js.map": "/ReactMovies/static/js/main.7b7023c7.chunk.js.map",
+    "main.js": "/ReactMovies/static/js/main.99463f37.chunk.js",
+    "main.js.map": "/ReactMovies/static/js/main.99463f37.chunk.js.map",
     "runtime-main.js": "/ReactMovies/static/js/runtime-main.65d10add.js",
     "runtime-main.js.map": "/ReactMovies/static/js/runtime-main.65d10add.js.map",
-    "static/js/2.595edd1a.chunk.js": "/ReactMovies/static/js/2.595edd1a.chunk.js",
-    "static/js/2.595edd1a.chunk.js.map": "/ReactMovies/static/js/2.595edd1a.chunk.js.map",
+    "static/js/2.2116dd79.chunk.js": "/ReactMovies/static/js/2.2116dd79.chunk.js",
+    "static/js/2.2116dd79.chunk.js.map": "/ReactMovies/static/js/2.2116dd79.chunk.js.map",
     "index.html": "/ReactMovies/index.html",
-    "precache-manifest.f8b95e0f394bec0038d1a05f23fcf6c1.js": "/ReactMovies/precache-manifest.f8b95e0f394bec0038d1a05f23fcf6c1.js",
+    "precache-manifest.91dae169f49995257c42a25757e43481.js": "/ReactMovies/precache-manifest.91dae169f49995257c42a25757e43481.js",
     "service-worker.js": "/ReactMovies/service-worker.js",
     "static/css/main.b3fabd2b.chunk.css.map": "/ReactMovies/static/css/main.b3fabd2b.chunk.css.map",
-    "static/js/2.595edd1a.chunk.js.LICENSE.txt": "/ReactMovies/static/js/2.595edd1a.chunk.js.LICENSE.txt"
+    "static/js/2.2116dd79.chunk.js.LICENSE.txt": "/ReactMovies/static/js/2.2116dd79.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.65d10add.js",
-    "static/js/2.595edd1a.chunk.js",
+    "static/js/2.2116dd79.chunk.js",
     "static/css/main.b3fabd2b.chunk.css",
-    "static/js/main.7b7023c7.chunk.js"
+    "static/js/main.99463f37.chunk.js"
   ]
 }
