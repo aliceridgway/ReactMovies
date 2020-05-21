@@ -16,7 +16,7 @@ import Moviedetail from './components/Moviedetail';
 
 const App = () => (
 
-  <Router>
+  <Router basename="/">
     <div className="App">
 
       {/* <header className="App-header"> */}
