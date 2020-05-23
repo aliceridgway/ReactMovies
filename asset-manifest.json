@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/ReactMovies/static/css/main.b3fabd2b.chunk.css",
-    "main.js": "/ReactMovies/static/js/main.99463f37.chunk.js",
-    "main.js.map": "/ReactMovies/static/js/main.99463f37.chunk.js.map",
+    "main.css": "/ReactMovies/static/css/main.850f00b6.chunk.css",
+    "main.js": "/ReactMovies/static/js/main.0f8873ca.chunk.js",
+    "main.js.map": "/ReactMovies/static/js/main.0f8873ca.chunk.js.map",
     "runtime-main.js": "/ReactMovies/static/js/runtime-main.65d10add.js",
     "runtime-main.js.map": "/ReactMovies/static/js/runtime-main.65d10add.js.map",
-    "static/js/2.2116dd79.chunk.js": "/ReactMovies/static/js/2.2116dd79.chunk.js",
-    "static/js/2.2116dd79.chunk.js.map": "/ReactMovies/static/js/2.2116dd79.chunk.js.map",
+    "static/js/2.d8dfaddb.chunk.js": "/ReactMovies/static/js/2.d8dfaddb.chunk.js",
+    "static/js/2.d8dfaddb.chunk.js.map": "/ReactMovies/static/js/2.d8dfaddb.chunk.js.map",
     "index.html": "/ReactMovies/index.html",
-    "precache-manifest.91dae169f49995257c42a25757e43481.js": "/ReactMovies/precache-manifest.91dae169f49995257c42a25757e43481.js",
+    "precache-manifest.49a6253d367776dd1c3af55f4e2ba1b0.js": "/ReactMovies/precache-manifest.49a6253d367776dd1c3af55f4e2ba1b0.js",
     "service-worker.js": "/ReactMovies/service-worker.js",
-    "static/css/main.b3fabd2b.chunk.css.map": "/ReactMovies/static/css/main.b3fabd2b.chunk.css.map",
-    "static/js/2.2116dd79.chunk.js.LICENSE.txt": "/ReactMovies/static/js/2.2116dd79.chunk.js.LICENSE.txt"
+    "static/css/main.850f00b6.chunk.css.map": "/ReactMovies/static/css/main.850f00b6.chunk.css.map",
+    "static/js/2.d8dfaddb.chunk.js.LICENSE.txt": "/ReactMovies/static/js/2.d8dfaddb.chunk.js.LICENSE.txt",
+    "static/media/placeholder_backdrop_w1280.jpg": "/ReactMovies/static/media/placeholder_backdrop_w1280.627b8ac7.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.65d10add.js",
-    "static/js/2.2116dd79.chunk.js",
-    "static/css/main.b3fabd2b.chunk.css",
-    "static/js/main.99463f37.chunk.js"
+    "static/js/2.d8dfaddb.chunk.js",
+    "static/css/main.850f00b6.chunk.css",
+    "static/js/main.0f8873ca.chunk.js"
   ]
 }
