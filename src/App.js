@@ -10,7 +10,7 @@ import {
 
 import './App.css';
 
-import Movieslist from './components/Movieslist';
+import MoviesList from './components/MoviesList';
 import Moviedetail from './components/Moviedetail';
 
 
@@ -26,7 +26,7 @@ const App = () => (
       </AppHeader>
 
       <Switch>
-        <Route exact path="/" component={Movieslist} />
+        <Route exact path="/" component={MoviesList} />
         <Route path="/:id" component={Moviedetail} />
       </Switch>
 
