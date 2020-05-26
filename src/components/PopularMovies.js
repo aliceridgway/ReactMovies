@@ -16,7 +16,7 @@ const PopularMovies = ({ children, APIString }) => {
       setPopular(response.results);
     };
     fetchMovies();
-  }, []);
+  }, [APIString]);
 
   return (
     <Wrapper>
