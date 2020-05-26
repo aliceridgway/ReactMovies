@@ -9,7 +9,7 @@ const Pagination = ({ currentPage, paginate, totalPages }) => {
 
   return (
     <PaginationBar>
-      <a onClick={() => paginate(previous)} href="!#">Previous</a>
+      <a onClick={() => paginate(previous)} href="#/">Previous</a>
       <p>
         Page
         {' '}
@@ -19,7 +19,7 @@ const Pagination = ({ currentPage, paginate, totalPages }) => {
         {' '}
         {totalPages}
       </p>
-      <a onClick={() => paginate(next)} href="!#">Next</a>
+      <a onClick={() => paginate(next)} href="#/">Next</a>
     </PaginationBar>
   );
 };
