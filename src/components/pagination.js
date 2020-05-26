@@ -34,7 +34,7 @@ Pagination.propTypes = {
 };
 
 const PaginationBar = styled.div`
-    width:600px;
+    width:100%;
     display:flex;
     justify-content: space-between;
     align-items:center;
