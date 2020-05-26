@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from 'react';
-import { withRouter } from 'react-router-dom';
 import styled from 'styled-components';
 import PropTypes from 'prop-types';
 import Card, { Poster } from './Card';
@@ -49,7 +48,7 @@ const MovieDetail = ({ match }) => {
       }
     };
     relatedMovies();
-  }, [movie.id]);
+  }, [movie.id, movie.genres]);
 
   return (
 
