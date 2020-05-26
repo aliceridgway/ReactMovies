@@ -16,7 +16,7 @@ const MoviesList = () => {
   const [totalPages, setTotalPages] = useState(1);
 
   useEffect(() => {
-    console.log('useEffect');
+    window.scrollTo(0, 0);
     const fetchMovies = async () => {
       const res = await fetch(`https://api.themoviedb.org/3/discover/movie?api_key=49351c46224cf6108890d28e7e5f0d50&language=en-US&sort_by=popularity.desc&include_adult=false&include_video=false&page=${currentPage + 1}`);
       const response = await res.json();
